@@ -1,9 +1,8 @@
 
-
 public class Main {
-    class Product{
+    static class Product{
 
-        Product(){
+        public Product(){
 
         }
 
@@ -24,5 +23,6 @@ public class Main {
         p.product(1, 2);
         p.product(1, 2, 3);
         p.product(1d, 2d);
+        System.out.println(p.product(1, 2));
     }
 }

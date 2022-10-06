@@ -1,0 +1,11 @@
+[33mcommit 5f6e9152b7e659c9cfacc429ad0f049e2c88ca02[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: unknown <ShubhamPal05>
+Date:   Wed Oct 5 17:09:31 2022 +0530
+
+    non-static variable this cannot be referenced from a static context
+
+[33mcommit fa614b05af5c46cd49bc6c62f42805f809249e5f[m
+Author: acciojob[bot] <98882899+acciojob[bot]@users.noreply.github.com>
+Date:   Wed Oct 5 03:14:25 2022 +0000
+
+    Initial commit
